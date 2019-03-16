@@ -3,7 +3,7 @@
 
 ## Web Data Mining and Semantics Project
 
-*support cours : https://open.hpi.de/courses/semanticweb2016/overview *
+*support cours : https://open.hpi.de/courses/semanticweb2016/overview*
 
 ### Part I: Modeling the ontology (5 points)
 In this project, we aim to create an ontology, using the Protégé editor, which models movies. A movie has one or several directors, writers and actors. It also has a title, one or several genres, a year, a country and a language. To define the Genre of a movie, possible choices are: Thriller, Crime, Action, Drama or Comedy. Actors, directors and writers are persons. Persons have a gender (male or female), a name, an age and a nationality.
